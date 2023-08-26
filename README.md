@@ -1,11 +1,13 @@
-### Hi there 👋, my name is Sayantan Kabri ~
-#### I am a passionate web developer 
-![I am a passionate web developer ](https://media.licdn.com/dms/image/D5616AQEO7SXs_USqdw/profile-displaybackgroundimage-shrink_350_1400/0/1690274041619?e=1698278400&v=beta&t=Mt0UadyOKD6I6YuEwtYqM3X59-u_4GGpRh6dQrB6uA8)
+(https://media.licdn.com/dms/image/D5616AQEO7SXs_USqdw/profile-displaybackgroundimage-shrink_350_1400/0/1690274041619?e=1698278400&v=beta&t=Mt0UadyOKD6I6YuEwtYqM3X59-u_4GGpRh6dQrB6uA8)
+## Hi there 👋, my name is Sayantan Kabri ~
+### I am a passionate web developer with a knack for creating elegant and functional websites. My journey in the world of coding started with a curiosity for crafting digital experiences that people love to use.
 
-I'm a passionate web developer with a knack for creating elegant and functional websites. My journey in the world of coding started with a curiosity for crafting digital experiences that people love to use.
-
-Skills: React /js
-
+Skills: 
+## Tech Stack
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Node.js, Express
+- Database: MongoDB
+- Tools: Git, VS Code, Figma
 - 🔭 I’m currently working on this page. 
 
 
@@ -16,3 +18,4 @@ Skills: React /js
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kabri108&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Kabri108)  
+Looking forward to collaborating on exciting projects and making the web a better place, one line of code at a time! 🚀
