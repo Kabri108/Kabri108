@@ -1,4 +1,4 @@
-![I am a passionate web developer ](https://media.licdn.com/dms/image/D5616AQEO7SXs_USqdw/profile-displaybackgroundimage-shrink_350_1400/0/1690274041619?e=1698278400&v=beta&t=Mt0UadyOKD6I6YuEwtYqM3X59-u_4GGpRh6dQrB6uA8)
+![I am a passionate web developer ](https://www.linkedin.com/in/sayantan-kabri-9907b7238/overlay/background-image/)
 ## Hi there 👋, my name is Sayantan Kabri ~
 ### I am a passionate web developer with a knack for creating elegant and functional websites. My journey in the world of coding started with a curiosity for crafting digital experiences that people love to use.
 
